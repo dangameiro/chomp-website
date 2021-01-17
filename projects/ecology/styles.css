@@ -1,0 +1,25 @@
+body{
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+a:link, a:visited{
+  text-decoration: none;
+  color: darkblue;
+}
+
+a:link:hover, a:visited:hover{
+  color: blue;
+}
+
+#header {
+  background-color: lightblue;
+  text-align: center;
+  padding: 5px;
+  box-shadow: 0px 4px 5px grey;
+}

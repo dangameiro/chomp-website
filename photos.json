@@ -1,0 +1,78 @@
+[
+  {
+    "photo": "images/chomp.png",
+    "link": "software.html#apDiv2"
+  },
+  {
+    "photo": "images/cmgdb.png",
+    "link": "software.html#cmgdb"
+  },
+  {
+    "photo": "images/DSGRN.png",
+    "link": "software.html#DSGRN"
+  },
+  {
+    "photo": "images/DSGRN_viz.png",
+    "link": "software.html#DSGRN_viz"
+  },
+  {
+    "photo": "images/DSGRN_viz_2.png",
+    "link": "software.html#DSGRN_viz"
+  },
+  {
+    "photo": "images/DSGRN_viz_3.png",
+    "link": "software.html#DSGRN_viz"
+  },
+  {
+    "photo": "images/DSGRN_viz_4.png",
+    "link": "software.html#DSGRN_viz"
+  },
+  {
+    "photo": "images/combinatorial_global_dynamics.png",
+    "link": "publications.html#comb_glob_dyn"
+  },
+  {
+    "photo": "images/connection_matrix.png",
+    "link": "publications.html#con_matrix"
+  },
+  {
+    "photo": "images/DSGRN_paper.png",
+    "link": "publications.html#dsgrn_paper"
+  },
+  {
+    "photo": "images/model_rejection_DSGRN.png",
+    "link": "publications.html#model_rejection"
+  },
+  {
+    "photo": "images/parameter_decomp.png",
+    "link": "publications.html#param_decomp"
+  },
+  {
+    "photo": "images/robust_hyst_networks.png",
+    "link": "publications.html#robust_hyst"
+  },
+  {
+    "photo": "images/sampled_dynamics.png",
+    "link": "publications.html#sampled_dyn"
+  },
+  {
+    "photo": "images/suspensions_network.png",
+    "link": "publications.html#suspensions_network"
+  },
+  {
+    "photo": "images/suspensions_network_2.png",
+    "link": "publications.html#suspensions_network"
+  },
+  {
+    "photo": "images/suspensions_network_3.png",
+    "link": "publications.html#suspensions_network"
+  },
+  {
+    "photo": "images/three_node_hysteresis.png",
+    "link": "publications.html#apDiv2"
+  },
+  {
+    "photo": "images/three_node_hysteresis_2.png",
+    "link": "publications.html#apDiv2"
+  }
+]
